@@ -1,0 +1,6 @@
+package ex_forkTest;
+
+public class NameBirth6 {
+	system.out.println("이름 숙제 제출")
+
+}
